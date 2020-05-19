@@ -1,6 +1,6 @@
 ﻿
 h1 {font-family: arial;
-font-size: 18pt; color: #000; line-height: 10pt;
+font-size: 18pt; color: #000; line-height: 10pt; text-align:center;
 }
 body {font-family: arial; color: #000; font-size: 9pt; background-color: #F1F1F1;}
 #fill {font-family: arial; color: #000; font-size: 9pt;}
